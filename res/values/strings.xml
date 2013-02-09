@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, CHook!</string>
+    <string name="app_name">CHook</string>
+    <string name="welcomeString">C-Hook will run the library with the following description:</string>
+    <string name="runString">Run C Library</string>
+    <string name="outputWait">Fetch Output</string>
+
+</resources>
